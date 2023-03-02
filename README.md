@@ -14,6 +14,7 @@ Eventmie is an Event planning and management Laravel package. With Eventmie, lau
 
 
 #### Live Preview - [Eventmie](https://eventmie.classiebit.com)
++ [Live](https://eventmie-pro-fullyloaded.classiebit.com) - Live preview available now.
 
 
 
