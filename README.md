@@ -1,6 +1,6 @@
-# Eventmie Lite
+# Eventmie
 
-**Welcome to Eventmie Lite**
+**Welcome to Eventmie**
 1. Akshayshastri
 2. Akash Ranjan
 3. Panjaj
